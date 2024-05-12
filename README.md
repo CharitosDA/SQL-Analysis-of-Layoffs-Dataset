@@ -14,10 +14,6 @@ This project utilizes advanced SQL queries to clean and analyze layoff data acro
 2. **Industry-Specific Trends**: Highlighted industries most affected by layoffs, useful for targeted strategic planning.
 3. **Impact of Economic Stages**: Analyzed layoffs in relation to company stages, such as post-IPO, revealing higher vulnerability in certain business phases.
 
-## Future Directions
-- **Integration with Visualization Tools**: Plan to transfer this project into Tableau for more dynamic and interactive visualizations.
-- **Further Data Enrichment**: Propose to incorporate additional data sources like economic indicators to deepen the analysis.
-- **Predictive Modeling**: Suggest developing predictive models to forecast future layoff trends based on historical data patterns.
 
 ## Conclusion
 This SQL project provides a foundation for understanding and strategizing around layoffs, crucial for corporate planning and economic analysis.
